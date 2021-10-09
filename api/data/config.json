@@ -1,0 +1,11 @@
+{
+    "sqlServer":{
+      "host":"r10x-mssql-test.caf3e5wzssvv.us-west-1.rds.amazonaws.com",
+      "databaseName":"r10x-test",
+      "username":"r10xtest",
+      "password":"r10xtest2021",
+      "port": 1433
+    }
+
+  }
+
